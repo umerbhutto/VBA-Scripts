@@ -1,4 +1,4 @@
-Excel - Bank Confirmation_v1.0.xlsm -> File contains the bank confirmation template which should be filled out by the PwC personnel
+Excel - Bank Confirmation_v1.0.xlsm -> File contains the bank confirmation template which should be filled out by the firm personnel
 Templates Folder -> Contains the bank confirmation template for UAE, DIFC and ADGM 
 Confirmation Folder -> Contains the bank confirmations created from the excel file. It uses the templates in the templates folder to create the bank confirmations
 
